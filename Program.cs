@@ -13,9 +13,9 @@ class Program
 
     gerenciador.Inscrever("PedidoPronto", atendente.NotificarCliente);
 
-    gerenciador.Notificar("NovoPedido", "Pedido #775: Picanha na chapa");
+    gerenciador.Notificar("NovoPedido", "Pedido #1558: Picanha na chapa");
 
-    gerenciador.Notificar("PedidoPronto", "Pedido #775 está pronto para ser servido");
+    gerenciador.Notificar("PedidoPronto", "Pedido #1558 está pronto para ser servido");
 
   }
 }

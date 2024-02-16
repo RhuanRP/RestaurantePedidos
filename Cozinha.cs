@@ -9,6 +9,6 @@ public class Cozinha
 
   public void PrepararPedido(string mensagem)
   {
-    Console.WriteLine($"[{_nome}] Pedido recebido para preparo: {mensagem}");
+    Console.WriteLine($"[{_nome}] Pedido recebido e pronto para preparar: {mensagem}");
   }
 }
