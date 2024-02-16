@@ -1,0 +1,14 @@
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\SingletonObervable\bin\Debug\net7.0\SingletonObervable.exe
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\SingletonObervable\bin\Debug\net7.0\SingletonObervable.deps.json
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\SingletonObervable\bin\Debug\net7.0\SingletonObervable.runtimeconfig.json
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\SingletonObervable\bin\Debug\net7.0\SingletonObervable.dll
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\SingletonObervable\bin\Debug\net7.0\SingletonObervable.pdb
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\SingletonObervable\obj\Debug\net7.0\SingletonObervable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\SingletonObervable\obj\Debug\net7.0\SingletonObervable.AssemblyInfoInputs.cache
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\SingletonObervable\obj\Debug\net7.0\SingletonObervable.AssemblyInfo.cs
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\SingletonObervable\obj\Debug\net7.0\SingletonObervable.csproj.CoreCompileInputs.cache
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\SingletonObervable\obj\Debug\net7.0\SingletonObervable.dll
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\SingletonObervable\obj\Debug\net7.0\refint\SingletonObervable.dll
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\SingletonObervable\obj\Debug\net7.0\SingletonObervable.pdb
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\SingletonObervable\obj\Debug\net7.0\SingletonObervable.genruntimeconfig.cache
+C:\Users\Rhuan\Desktop\Faculdade e Estudos\Atividades 7° Periodo\Tecnicas avançadas\SingletonObervable\obj\Debug\net7.0\ref\SingletonObervable.dll
